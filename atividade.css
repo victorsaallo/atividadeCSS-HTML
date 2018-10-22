@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: blue;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    font-family: Arial, sans-serif;
+    color: gray;
+}
+
+h2{
+    color: black;
+    border: 1px solid blue;
+}
+
